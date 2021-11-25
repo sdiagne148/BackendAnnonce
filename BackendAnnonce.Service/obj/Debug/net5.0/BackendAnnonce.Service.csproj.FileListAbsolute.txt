@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Service.deps.json
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Service.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\ref\BackendAnnonce.Service.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Service.pdb
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Domain.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Persistence.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Persistence.pdb
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\bin\Debug\net5.0\BackendAnnonce.Domain.pdb
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.csproj.CopyComplete
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\ref\BackendAnnonce.Service.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Service\obj\Debug\net5.0\BackendAnnonce.Service.pdb

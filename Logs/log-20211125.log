@@ -1,0 +1,1399 @@
+2021-11-25 13:44:41.631 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:44:41.998 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:44:42.367 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+2021-11-25 13:44:42.487 +00:00 [Information] Hosting environment: "Development"
+2021-11-25 13:44:42.522 +00:00 [Information] Content root path: "C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce"
+2021-11-25 13:44:43.360 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:44:43.570 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:44:45.461 +00:00 [Information] Received HTTP response headers after 2061.3003ms - 200
+2021-11-25 13:44:45.490 +00:00 [Information] End processing HTTP request after 2156.8796ms - 200
+2021-11-25 13:44:46.000 +00:00 [Information] Received HTTP response headers after 3996.5093ms - 200
+2021-11-25 13:44:46.005 +00:00 [Information] End processing HTTP request after 4495.0148ms - 200
+2021-11-25 13:44:57.068 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:44:57.072 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:44:57.084 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:44:57.091 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:44:57.307 +00:00 [Information] Received HTTP response headers after 201.2981ms - 200
+2021-11-25 13:44:57.321 +00:00 [Information] End processing HTTP request after 229.3504ms - 200
+2021-11-25 13:44:57.484 +00:00 [Information] Received HTTP response headers after 395.0688ms - 200
+2021-11-25 13:44:57.490 +00:00 [Information] End processing HTTP request after 419.7068ms - 200
+2021-11-25 13:45:07.553 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:07.558 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:07.573 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:07.586 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:07.729 +00:00 [Information] Received HTTP response headers after 152.0686ms - 200
+2021-11-25 13:45:07.734 +00:00 [Information] End processing HTTP request after 162.5148ms - 200
+2021-11-25 13:45:07.870 +00:00 [Information] Received HTTP response headers after 284.7313ms - 200
+2021-11-25 13:45:07.879 +00:00 [Information] End processing HTTP request after 327.4244ms - 200
+2021-11-25 13:45:17.903 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:17.918 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:17.972 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:17.982 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:18.154 +00:00 [Information] Received HTTP response headers after 172.9105ms - 200
+2021-11-25 13:45:18.159 +00:00 [Information] End processing HTTP request after 228.6232ms - 200
+2021-11-25 13:45:18.286 +00:00 [Information] Received HTTP response headers after 355.8781ms - 200
+2021-11-25 13:45:18.297 +00:00 [Information] End processing HTTP request after 402.1701ms - 200
+2021-11-25 13:45:28.317 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:28.320 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:28.335 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:28.348 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:28.520 +00:00 [Information] Received HTTP response headers after 167.8784ms - 200
+2021-11-25 13:45:28.528 +00:00 [Information] End processing HTTP request after 197.2533ms - 200
+2021-11-25 13:45:28.623 +00:00 [Information] Received HTTP response headers after 293.5749ms - 200
+2021-11-25 13:45:28.632 +00:00 [Information] End processing HTTP request after 309.0221ms - 200
+2021-11-25 13:45:38.645 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:38.649 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:38.664 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:38.667 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:38.806 +00:00 [Information] Received HTTP response headers after 139.3562ms - 200
+2021-11-25 13:45:38.810 +00:00 [Information] End processing HTTP request after 146.2809ms - 200
+2021-11-25 13:45:38.940 +00:00 [Information] Received HTTP response headers after 290.0023ms - 200
+2021-11-25 13:45:38.950 +00:00 [Information] End processing HTTP request after 299.647ms - 200
+2021-11-25 13:45:48.975 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:48.991 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:49.067 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:49.079 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:49.238 +00:00 [Information] Received HTTP response headers after 164.7354ms - 200
+2021-11-25 13:45:49.242 +00:00 [Information] End processing HTTP request after 205.7621ms - 200
+2021-11-25 13:45:49.326 +00:00 [Information] Received HTTP response headers after 345.6054ms - 200
+2021-11-25 13:45:49.330 +00:00 [Information] End processing HTTP request after 358.0684ms - 200
+2021-11-25 13:45:59.345 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:59.347 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:45:59.358 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:59.362 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:45:59.527 +00:00 [Information] Received HTTP response headers after 165.8825ms - 200
+2021-11-25 13:45:59.533 +00:00 [Information] End processing HTTP request after 175.2281ms - 200
+2021-11-25 13:45:59.566 +00:00 [Information] Received HTTP response headers after 216.6026ms - 200
+2021-11-25 13:45:59.570 +00:00 [Information] End processing HTTP request after 225.8456ms - 200
+2021-11-25 13:46:09.586 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:09.591 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:09.607 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:09.612 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:09.734 +00:00 [Information] Received HTTP response headers after 122.7864ms - 200
+2021-11-25 13:46:09.738 +00:00 [Information] End processing HTTP request after 131.2118ms - 200
+2021-11-25 13:46:09.787 +00:00 [Information] Received HTTP response headers after 195.0495ms - 200
+2021-11-25 13:46:09.794 +00:00 [Information] End processing HTTP request after 206.3891ms - 200
+2021-11-25 13:46:19.807 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:19.827 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:19.857 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:19.868 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:20.033 +00:00 [Information] Received HTTP response headers after 171.2551ms - 200
+2021-11-25 13:46:20.035 +00:00 [Information] End processing HTTP request after 184.8657ms - 200
+2021-11-25 13:46:20.200 +00:00 [Information] Received HTTP response headers after 374.2023ms - 200
+2021-11-25 13:46:20.204 +00:00 [Information] End processing HTTP request after 394.9703ms - 200
+2021-11-25 13:46:30.226 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:30.230 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:30.240 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:30.246 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:30.407 +00:00 [Information] Received HTTP response headers after 151.8184ms - 200
+2021-11-25 13:46:30.413 +00:00 [Information] End processing HTTP request after 173.26ms - 200
+2021-11-25 13:46:30.458 +00:00 [Information] Received HTTP response headers after 226.902ms - 200
+2021-11-25 13:46:30.463 +00:00 [Information] End processing HTTP request after 236.2487ms - 200
+2021-11-25 13:46:40.491 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:40.507 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:40.534 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:40.545 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:40.663 +00:00 [Information] Received HTTP response headers after 121.6744ms - 200
+2021-11-25 13:46:40.667 +00:00 [Information] End processing HTTP request after 139.3562ms - 200
+2021-11-25 13:46:40.737 +00:00 [Information] Received HTTP response headers after 225.4481ms - 200
+2021-11-25 13:46:40.749 +00:00 [Information] End processing HTTP request after 264.1516ms - 200
+2021-11-25 13:46:51.129 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:51.194 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:46:51.250 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:51.265 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:46:51.826 +00:00 [Information] Received HTTP response headers after 571.9991ms - 200
+2021-11-25 13:46:51.833 +00:00 [Information] End processing HTTP request after 592.2611ms - 200
+2021-11-25 13:46:52.167 +00:00 [Information] Received HTTP response headers after 1034.3101ms - 200
+2021-11-25 13:46:52.171 +00:00 [Information] End processing HTTP request after 1196.4742ms - 200
+2021-11-25 13:47:02.191 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:02.195 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:02.206 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:02.210 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:02.352 +00:00 [Information] Received HTTP response headers after 138.8091ms - 200
+2021-11-25 13:47:02.359 +00:00 [Information] End processing HTTP request after 152.9492ms - 200
+2021-11-25 13:47:02.496 +00:00 [Information] Received HTTP response headers after 299.5007ms - 200
+2021-11-25 13:47:02.507 +00:00 [Information] End processing HTTP request after 307.0898ms - 200
+2021-11-25 13:47:12.554 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:12.564 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:12.582 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:12.599 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:12.788 +00:00 [Information] Received HTTP response headers after 137.3884ms - 200
+2021-11-25 13:47:12.794 +00:00 [Information] End processing HTTP request after 217.4927ms - 200
+2021-11-25 13:47:12.808 +00:00 [Information] Received HTTP response headers after 247.8386ms - 200
+2021-11-25 13:47:12.820 +00:00 [Information] End processing HTTP request after 292.2642ms - 200
+2021-11-25 13:47:22.939 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:22.991 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:23.027 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:23.050 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:23.224 +00:00 [Information] Received HTTP response headers after 164.0269ms - 200
+2021-11-25 13:47:23.244 +00:00 [Information] End processing HTTP request after 206.2035ms - 200
+2021-11-25 13:47:23.273 +00:00 [Information] Received HTTP response headers after 318.4998ms - 200
+2021-11-25 13:47:23.284 +00:00 [Information] End processing HTTP request after 435.0773ms - 200
+2021-11-25 13:47:33.299 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:33.304 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:33.323 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:33.330 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:33.463 +00:00 [Information] Received HTTP response headers after 137.2505ms - 200
+2021-11-25 13:47:33.469 +00:00 [Information] End processing HTTP request after 148.3087ms - 200
+2021-11-25 13:47:33.530 +00:00 [Information] Received HTTP response headers after 226.6099ms - 200
+2021-11-25 13:47:33.537 +00:00 [Information] End processing HTTP request after 238.8833ms - 200
+2021-11-25 13:47:43.604 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:43.626 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:43.660 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:43.667 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:43.812 +00:00 [Information] Received HTTP response headers after 148.0117ms - 200
+2021-11-25 13:47:43.818 +00:00 [Information] End processing HTTP request after 159.5753ms - 200
+2021-11-25 13:47:43.960 +00:00 [Information] Received HTTP response headers after 352.1536ms - 200
+2021-11-25 13:47:43.965 +00:00 [Information] End processing HTTP request after 381.1594ms - 200
+2021-11-25 13:47:53.988 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:53.991 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:47:53.996 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:54.001 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:47:54.128 +00:00 [Information] Received HTTP response headers after 124.0013ms - 200
+2021-11-25 13:47:54.132 +00:00 [Information] End processing HTTP request after 134.8229ms - 200
+2021-11-25 13:47:54.244 +00:00 [Information] Received HTTP response headers after 250.5933ms - 200
+2021-11-25 13:47:54.257 +00:00 [Information] End processing HTTP request after 258.8654ms - 200
+2021-11-25 13:48:04.271 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:04.274 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:04.280 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:04.284 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:04.453 +00:00 [Information] Received HTTP response headers after 169.1919ms - 200
+2021-11-25 13:48:04.460 +00:00 [Information] End processing HTTP request after 176.5803ms - 200
+2021-11-25 13:48:04.558 +00:00 [Information] Received HTTP response headers after 282.93ms - 200
+2021-11-25 13:48:04.562 +00:00 [Information] End processing HTTP request after 289.7476ms - 200
+2021-11-25 13:48:14.593 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:14.602 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:14.612 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:14.621 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:14.828 +00:00 [Information] Received HTTP response headers after 154.3828ms - 200
+2021-11-25 13:48:14.839 +00:00 [Information] End processing HTTP request after 221.8787ms - 200
+2021-11-25 13:48:14.850 +00:00 [Information] Received HTTP response headers after 249.4015ms - 200
+2021-11-25 13:48:14.856 +00:00 [Information] End processing HTTP request after 269.3381ms - 200
+2021-11-25 13:48:24.874 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:24.877 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:24.884 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:24.889 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:25.049 +00:00 [Information] Received HTTP response headers after 155.9592ms - 200
+2021-11-25 13:48:25.053 +00:00 [Information] End processing HTTP request after 169.6863ms - 200
+2021-11-25 13:48:25.085 +00:00 [Information] Received HTTP response headers after 207.0786ms - 200
+2021-11-25 13:48:25.088 +00:00 [Information] End processing HTTP request after 213.3351ms - 200
+2021-11-25 13:48:35.109 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:35.122 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:35.139 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:35.144 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:35.267 +00:00 [Information] Received HTTP response headers after 123.2288ms - 200
+2021-11-25 13:48:35.273 +00:00 [Information] End processing HTTP request after 132.8721ms - 200
+2021-11-25 13:48:35.334 +00:00 [Information] Received HTTP response headers after 222.3193ms - 200
+2021-11-25 13:48:35.338 +00:00 [Information] End processing HTTP request after 232.5454ms - 200
+2021-11-25 13:48:45.366 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:45.369 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:45.376 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:45.384 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:45.518 +00:00 [Information] Received HTTP response headers after 138.7996ms - 200
+2021-11-25 13:48:45.522 +00:00 [Information] End processing HTTP request after 146.6063ms - 200
+2021-11-25 13:48:45.749 +00:00 [Information] Received HTTP response headers after 377.2472ms - 200
+2021-11-25 13:48:45.755 +00:00 [Information] End processing HTTP request after 385.3204ms - 200
+2021-11-25 13:48:55.767 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:55.773 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:48:55.811 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:55.823 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:48:56.374 +00:00 [Information] Received HTTP response headers after 559.796ms - 200
+2021-11-25 13:48:56.379 +00:00 [Information] End processing HTTP request after 572.0384ms - 200
+2021-11-25 13:48:56.741 +00:00 [Information] Received HTTP response headers after 964.2303ms - 200
+2021-11-25 13:48:56.746 +00:00 [Information] End processing HTTP request after 983.9972ms - 200
+2021-11-25 13:49:06.772 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:06.777 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:06.786 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:06.794 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:06.966 +00:00 [Information] Received HTTP response headers after 175.1145ms - 200
+2021-11-25 13:49:06.969 +00:00 [Information] End processing HTTP request after 185.5696ms - 200
+2021-11-25 13:49:07.192 +00:00 [Information] Received HTTP response headers after 386.0339ms - 200
+2021-11-25 13:49:07.198 +00:00 [Information] End processing HTTP request after 423.2675ms - 200
+2021-11-25 13:49:17.221 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:17.226 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:17.235 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:17.241 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:17.417 +00:00 [Information] Received HTTP response headers after 178.6244ms - 200
+2021-11-25 13:49:17.422 +00:00 [Information] End processing HTTP request after 187.0467ms - 200
+2021-11-25 13:49:17.505 +00:00 [Information] Received HTTP response headers after 280.235ms - 200
+2021-11-25 13:49:17.510 +00:00 [Information] End processing HTTP request after 288.3361ms - 200
+2021-11-25 13:49:27.524 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:27.527 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:27.531 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:27.534 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:27.715 +00:00 [Information] Received HTTP response headers after 166.0531ms - 200
+2021-11-25 13:49:27.723 +00:00 [Information] End processing HTTP request after 186.9255ms - 200
+2021-11-25 13:49:27.799 +00:00 [Information] Received HTTP response headers after 254.9988ms - 200
+2021-11-25 13:49:27.807 +00:00 [Information] End processing HTTP request after 277.7437ms - 200
+2021-11-25 13:49:37.858 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:37.892 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:37.913 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:37.921 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:38.093 +00:00 [Information] Received HTTP response headers after 170.8282ms - 200
+2021-11-25 13:49:38.101 +00:00 [Information] End processing HTTP request after 186.9382ms - 200
+2021-11-25 13:49:38.155 +00:00 [Information] Received HTTP response headers after 295.2516ms - 200
+2021-11-25 13:49:38.158 +00:00 [Information] End processing HTTP request after 330.9138ms - 200
+2021-11-25 13:49:48.216 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:48.235 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:48.269 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:48.274 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:48.429 +00:00 [Information] Received HTTP response headers after 132.5586ms - 200
+2021-11-25 13:49:48.435 +00:00 [Information] End processing HTTP request after 173.4005ms - 200
+2021-11-25 13:49:48.468 +00:00 [Information] Received HTTP response headers after 246.5404ms - 200
+2021-11-25 13:49:48.472 +00:00 [Information] End processing HTTP request after 290.1693ms - 200
+2021-11-25 13:49:58.497 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:58.503 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:49:58.514 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:58.542 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:49:58.719 +00:00 [Information] Received HTTP response headers after 178.5005ms - 200
+2021-11-25 13:49:58.725 +00:00 [Information] End processing HTTP request after 211.4718ms - 200
+2021-11-25 13:49:58.999 +00:00 [Information] Received HTTP response headers after 497.3829ms - 200
+2021-11-25 13:49:59.016 +00:00 [Information] End processing HTTP request after 505.1667ms - 200
+2021-11-25 13:50:09.123 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:09.153 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:09.188 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:09.202 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:09.358 +00:00 [Information] Received HTTP response headers after 139.5534ms - 200
+2021-11-25 13:50:09.366 +00:00 [Information] End processing HTTP request after 185.1675ms - 200
+2021-11-25 13:50:09.488 +00:00 [Information] Received HTTP response headers after 348.6182ms - 200
+2021-11-25 13:50:09.501 +00:00 [Information] End processing HTTP request after 465.3648ms - 200
+2021-11-25 13:50:19.515 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:19.519 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:19.526 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:19.534 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:19.939 +00:00 [Information] Received HTTP response headers after 406.3235ms - 200
+2021-11-25 13:50:20.015 +00:00 [Information] End processing HTTP request after 417.1479ms - 200
+2021-11-25 13:50:20.278 +00:00 [Information] Received HTTP response headers after 705.6749ms - 200
+2021-11-25 13:50:20.293 +00:00 [Information] End processing HTTP request after 765.3701ms - 200
+2021-11-25 13:50:30.303 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:30.307 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:30.321 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:30.326 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:30.469 +00:00 [Information] Received HTTP response headers after 144.6208ms - 200
+2021-11-25 13:50:30.476 +00:00 [Information] End processing HTTP request after 157.1067ms - 200
+2021-11-25 13:50:30.525 +00:00 [Information] Received HTTP response headers after 219.1706ms - 200
+2021-11-25 13:50:30.529 +00:00 [Information] End processing HTTP request after 225.2462ms - 200
+2021-11-25 13:50:40.548 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:40.552 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:40.560 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:40.563 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:40.703 +00:00 [Information] Received HTTP response headers after 139.1904ms - 200
+2021-11-25 13:50:40.709 +00:00 [Information] End processing HTTP request after 149.5372ms - 200
+2021-11-25 13:50:40.784 +00:00 [Information] Received HTTP response headers after 227.6793ms - 200
+2021-11-25 13:50:40.788 +00:00 [Information] End processing HTTP request after 238.7538ms - 200
+2021-11-25 13:50:50.807 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:50.812 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:50:50.826 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:50.836 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:50:50.994 +00:00 [Information] Received HTTP response headers after 164.2345ms - 200
+2021-11-25 13:50:51.000 +00:00 [Information] End processing HTTP request after 177.3299ms - 200
+2021-11-25 13:50:51.318 +00:00 [Information] Received HTTP response headers after 504.7628ms - 200
+2021-11-25 13:50:51.325 +00:00 [Information] End processing HTTP request after 515.0056ms - 200
+2021-11-25 13:51:01.352 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:01.355 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:01.372 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:01.379 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:01.897 +00:00 [Information] Received HTTP response headers after 516.6278ms - 200
+2021-11-25 13:51:01.906 +00:00 [Information] End processing HTTP request after 529.1966ms - 200
+2021-11-25 13:51:02.246 +00:00 [Information] Received HTTP response headers after 890.9926ms - 200
+2021-11-25 13:51:02.250 +00:00 [Information] End processing HTTP request after 898.2152ms - 200
+2021-11-25 13:51:12.263 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:12.267 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:12.273 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:12.280 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:12.404 +00:00 [Information] Received HTTP response headers after 124.4774ms - 200
+2021-11-25 13:51:12.423 +00:00 [Information] End processing HTTP request after 135.392ms - 200
+2021-11-25 13:51:12.531 +00:00 [Information] Received HTTP response headers after 261.3426ms - 200
+2021-11-25 13:51:12.535 +00:00 [Information] End processing HTTP request after 272.2614ms - 200
+2021-11-25 13:51:22.550 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:22.553 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:22.558 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:22.561 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:22.728 +00:00 [Information] Received HTTP response headers after 165.9033ms - 200
+2021-11-25 13:51:22.731 +00:00 [Information] End processing HTTP request after 172.9302ms - 200
+2021-11-25 13:51:22.883 +00:00 [Information] Received HTTP response headers after 326.5707ms - 200
+2021-11-25 13:51:22.893 +00:00 [Information] End processing HTTP request after 336.2563ms - 200
+2021-11-25 13:51:32.917 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:32.940 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:32.972 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:32.985 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:33.141 +00:00 [Information] Received HTTP response headers after 156.2854ms - 200
+2021-11-25 13:51:33.149 +00:00 [Information] End processing HTTP request after 188.0192ms - 200
+2021-11-25 13:51:33.260 +00:00 [Information] Received HTTP response headers after 321.9722ms - 200
+2021-11-25 13:51:33.265 +00:00 [Information] End processing HTTP request after 357.8311ms - 200
+2021-11-25 13:51:43.287 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:43.290 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:43.295 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:43.300 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:43.450 +00:00 [Information] Received HTTP response headers after 148.9541ms - 200
+2021-11-25 13:51:43.507 +00:00 [Information] End processing HTTP request after 158.3262ms - 200
+2021-11-25 13:51:43.526 +00:00 [Information] Received HTTP response headers after 222.9976ms - 200
+2021-11-25 13:51:43.531 +00:00 [Information] End processing HTTP request after 241.6609ms - 200
+2021-11-25 13:51:53.537 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:53.541 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:51:53.552 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:53.557 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:51:53.688 +00:00 [Information] Received HTTP response headers after 132.3593ms - 200
+2021-11-25 13:51:53.692 +00:00 [Information] End processing HTTP request after 143.5384ms - 200
+2021-11-25 13:51:53.828 +00:00 [Information] Received HTTP response headers after 285.7927ms - 200
+2021-11-25 13:51:53.834 +00:00 [Information] End processing HTTP request after 293.5904ms - 200
+2021-11-25 13:52:03.868 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:03.892 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:03.910 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:03.918 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:04.041 +00:00 [Information] Received HTTP response headers after 127.2118ms - 200
+2021-11-25 13:52:04.053 +00:00 [Information] End processing HTTP request after 141.3358ms - 200
+2021-11-25 13:52:04.131 +00:00 [Information] Received HTTP response headers after 255.3039ms - 200
+2021-11-25 13:52:04.148 +00:00 [Information] End processing HTTP request after 275.4092ms - 200
+2021-11-25 13:52:14.169 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:14.174 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:14.186 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:14.190 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:14.335 +00:00 [Information] Received HTTP response headers after 143.5365ms - 200
+2021-11-25 13:52:14.338 +00:00 [Information] End processing HTTP request after 154.0859ms - 200
+2021-11-25 13:52:14.460 +00:00 [Information] Received HTTP response headers after 236.736ms - 200
+2021-11-25 13:52:14.498 +00:00 [Information] End processing HTTP request after 297.2402ms - 200
+2021-11-25 13:52:24.524 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:24.527 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:24.537 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:24.542 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:24.722 +00:00 [Information] Received HTTP response headers after 141.2327ms - 200
+2021-11-25 13:52:24.731 +00:00 [Information] End processing HTTP request after 190.5838ms - 200
+2021-11-25 13:52:24.750 +00:00 [Information] Received HTTP response headers after 221.2011ms - 200
+2021-11-25 13:52:24.767 +00:00 [Information] End processing HTTP request after 231.8902ms - 200
+2021-11-25 13:52:25.799 +00:00 [Error] No Accounts Registered with string.
+2021-11-25 13:52:34.814 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:34.827 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:34.837 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:34.843 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:35.012 +00:00 [Information] Received HTTP response headers after 165.6443ms - 200
+2021-11-25 13:52:35.017 +00:00 [Information] End processing HTTP request after 178.9347ms - 200
+2021-11-25 13:52:35.297 +00:00 [Information] Received HTTP response headers after 478.6729ms - 200
+2021-11-25 13:52:35.305 +00:00 [Information] End processing HTTP request after 506.8703ms - 200
+2021-11-25 13:52:45.546 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:45.551 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:45.575 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:45.580 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:45.864 +00:00 [Information] Received HTTP response headers after 149.8552ms - 200
+2021-11-25 13:52:45.877 +00:00 [Information] End processing HTTP request after 304.514ms - 200
+2021-11-25 13:52:46.094 +00:00 [Information] Received HTTP response headers after 405.313ms - 200
+2021-11-25 13:52:46.134 +00:00 [Information] End processing HTTP request after 716.9516ms - 200
+2021-11-25 13:52:56.170 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:56.176 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:52:56.218 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:56.225 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:52:56.390 +00:00 [Information] Received HTTP response headers after 134.3662ms - 200
+2021-11-25 13:52:56.397 +00:00 [Information] End processing HTTP request after 181.2276ms - 200
+2021-11-25 13:52:56.436 +00:00 [Information] Received HTTP response headers after 261.1044ms - 200
+2021-11-25 13:52:56.442 +00:00 [Information] End processing HTTP request after 284.0036ms - 200
+2021-11-25 13:53:06.498 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:06.505 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:06.536 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:06.545 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:07.209 +00:00 [Information] Received HTTP response headers after 668.3373ms - 200
+2021-11-25 13:53:07.212 +00:00 [Information] End processing HTTP request after 685.231ms - 200
+2021-11-25 13:53:07.573 +00:00 [Information] Received HTTP response headers after 1066.8994ms - 200
+2021-11-25 13:53:07.585 +00:00 [Information] End processing HTTP request after 1116.8539ms - 200
+2021-11-25 13:53:17.604 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:17.607 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:17.613 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:17.617 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:17.751 +00:00 [Information] Received HTTP response headers after 134.0167ms - 200
+2021-11-25 13:53:17.754 +00:00 [Information] End processing HTTP request after 141.566ms - 200
+2021-11-25 13:53:17.847 +00:00 [Information] Received HTTP response headers after 221.0201ms - 200
+2021-11-25 13:53:17.853 +00:00 [Information] End processing HTTP request after 245.7015ms - 200
+2021-11-25 13:53:27.879 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:27.884 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:27.897 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:27.909 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:28.021 +00:00 [Information] Received HTTP response headers after 116.0567ms - 200
+2021-11-25 13:53:28.025 +00:00 [Information] End processing HTTP request after 129.565ms - 200
+2021-11-25 13:53:28.181 +00:00 [Information] Received HTTP response headers after 297.8098ms - 200
+2021-11-25 13:53:28.185 +00:00 [Information] End processing HTTP request after 305.3776ms - 200
+2021-11-25 13:53:38.198 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:38.202 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:38.222 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:38.237 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:38.358 +00:00 [Information] Received HTTP response headers after 132.019ms - 200
+2021-11-25 13:53:38.362 +00:00 [Information] End processing HTTP request after 146.1664ms - 200
+2021-11-25 13:53:38.452 +00:00 [Information] Received HTTP response headers after 247.3958ms - 200
+2021-11-25 13:53:38.460 +00:00 [Information] End processing HTTP request after 258.0611ms - 200
+2021-11-25 13:53:48.474 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:48.478 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:48.491 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:48.497 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:48.630 +00:00 [Information] Received HTTP response headers after 133.27ms - 200
+2021-11-25 13:53:48.635 +00:00 [Information] End processing HTTP request after 143.1587ms - 200
+2021-11-25 13:53:48.764 +00:00 [Information] Received HTTP response headers after 282.1575ms - 200
+2021-11-25 13:53:48.770 +00:00 [Information] End processing HTTP request after 294.4491ms - 200
+2021-11-25 13:53:58.788 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:58.791 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:53:58.802 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:58.807 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:53:58.945 +00:00 [Information] Received HTTP response headers after 139.4172ms - 200
+2021-11-25 13:53:58.948 +00:00 [Information] End processing HTTP request after 151.6538ms - 200
+2021-11-25 13:53:59.148 +00:00 [Information] Received HTTP response headers after 355.41ms - 200
+2021-11-25 13:53:59.152 +00:00 [Information] End processing HTTP request after 364.3383ms - 200
+2021-11-25 13:54:09.169 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:09.173 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:09.181 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:09.185 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:09.318 +00:00 [Information] Received HTTP response headers after 133.0102ms - 200
+2021-11-25 13:54:09.333 +00:00 [Information] End processing HTTP request after 142.4671ms - 200
+2021-11-25 13:54:09.416 +00:00 [Information] Received HTTP response headers after 242.3348ms - 200
+2021-11-25 13:54:09.427 +00:00 [Information] End processing HTTP request after 251.9168ms - 200
+2021-11-25 13:54:19.442 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:19.446 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:19.452 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:19.456 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:19.574 +00:00 [Information] Received HTTP response headers after 119.1904ms - 200
+2021-11-25 13:54:19.579 +00:00 [Information] End processing HTTP request after 125.0931ms - 200
+2021-11-25 13:54:19.656 +00:00 [Information] Received HTTP response headers after 203.8962ms - 200
+2021-11-25 13:54:19.665 +00:00 [Information] End processing HTTP request after 216.451ms - 200
+2021-11-25 13:54:29.706 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:29.710 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:29.726 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:29.740 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:29.886 +00:00 [Information] Received HTTP response headers after 144.9791ms - 200
+2021-11-25 13:54:29.904 +00:00 [Information] End processing HTTP request after 168.387ms - 200
+2021-11-25 13:54:29.979 +00:00 [Information] Received HTTP response headers after 269.2137ms - 200
+2021-11-25 13:54:29.987 +00:00 [Information] End processing HTTP request after 283.434ms - 200
+2021-11-25 13:54:40.008 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:40.012 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:40.019 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:40.024 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:40.165 +00:00 [Information] Received HTTP response headers after 142.6149ms - 200
+2021-11-25 13:54:40.168 +00:00 [Information] End processing HTTP request after 149.9035ms - 200
+2021-11-25 13:54:40.261 +00:00 [Information] Received HTTP response headers after 246.3085ms - 200
+2021-11-25 13:54:40.266 +00:00 [Information] End processing HTTP request after 254.7032ms - 200
+2021-11-25 13:54:50.287 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:50.291 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:54:50.304 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:50.308 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:54:50.448 +00:00 [Information] Received HTTP response headers after 136.6985ms - 200
+2021-11-25 13:54:50.452 +00:00 [Information] End processing HTTP request after 152.0628ms - 200
+2021-11-25 13:54:50.524 +00:00 [Information] Received HTTP response headers after 234.532ms - 200
+2021-11-25 13:54:50.528 +00:00 [Information] End processing HTTP request after 240.6342ms - 200
+2021-11-25 13:55:00.576 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:55:00.592 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 13:55:00.609 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:55:00.635 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 13:55:00.758 +00:00 [Information] Received HTTP response headers after 144.6745ms - 200
+2021-11-25 13:55:00.767 +00:00 [Information] End processing HTTP request after 161.0191ms - 200
+2021-11-25 13:55:00.831 +00:00 [Information] Received HTTP response headers after 249.9152ms - 200
+2021-11-25 13:55:00.857 +00:00 [Information] End processing HTTP request after 274.8803ms - 200
+2021-11-25 15:46:42.662 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:46:42.830 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:46:50.465 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+2021-11-25 15:46:51.265 +00:00 [Information] Hosting environment: "Development"
+2021-11-25 15:46:52.150 +00:00 [Information] Content root path: "C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce"
+2021-11-25 15:46:54.583 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:46:54.612 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:46:55.747 +00:00 [Information] Received HTTP response headers after 1123.7453ms - 200
+2021-11-25 15:46:55.754 +00:00 [Information] End processing HTTP request after 1182.9163ms - 200
+2021-11-25 15:46:56.198 +00:00 [Information] Received HTTP response headers after 13280.989ms - 200
+2021-11-25 15:46:56.203 +00:00 [Information] End processing HTTP request after 13569.2259ms - 200
+2021-11-25 15:46:59.620 +00:00 [Error] Conflicting method/path combination "POST api/v{version}/Annonce" for actions - BackendAnnonce.Controllers.AnnonceController.Create (BackendAnnonce),BackendAnnonce.Controllers.AnnonceController.Upload (BackendAnnonce). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+2021-11-25 15:47:10.020 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:10.316 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:10.459 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:10.524 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:10.745 +00:00 [Information] Received HTTP response headers after 248.0635ms - 200
+2021-11-25 15:47:10.783 +00:00 [Information] End processing HTTP request after 302.9816ms - 200
+2021-11-25 15:47:10.799 +00:00 [Information] Received HTTP response headers after 768.3359ms - 200
+2021-11-25 15:47:10.804 +00:00 [Information] End processing HTTP request after 2367.176ms - 200
+2021-11-25 15:47:20.875 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:20.883 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:21.014 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:21.045 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:21.221 +00:00 [Information] Received HTTP response headers after 193.4827ms - 200
+2021-11-25 15:47:21.231 +00:00 [Information] End processing HTTP request after 243.7112ms - 200
+2021-11-25 15:47:21.309 +00:00 [Information] Received HTTP response headers after 382.5377ms - 200
+2021-11-25 15:47:21.319 +00:00 [Information] End processing HTTP request after 444.4289ms - 200
+2021-11-25 15:47:31.345 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:31.349 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:31.358 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:31.363 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:31.521 +00:00 [Information] Received HTTP response headers after 155.4639ms - 200
+2021-11-25 15:47:31.526 +00:00 [Information] End processing HTTP request after 169.0584ms - 200
+2021-11-25 15:47:31.639 +00:00 [Information] Received HTTP response headers after 252.0314ms - 200
+2021-11-25 15:47:31.660 +00:00 [Information] End processing HTTP request after 297.868ms - 200
+2021-11-25 15:47:41.720 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:41.727 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:41.748 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:41.756 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:41.900 +00:00 [Information] Received HTTP response headers after 146.094ms - 200
+2021-11-25 15:47:41.907 +00:00 [Information] End processing HTTP request after 163.2898ms - 200
+2021-11-25 15:47:41.951 +00:00 [Information] Received HTTP response headers after 223.921ms - 200
+2021-11-25 15:47:41.955 +00:00 [Information] End processing HTTP request after 242.1478ms - 200
+2021-11-25 15:47:52.256 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:52.500 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:47:52.685 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:52.749 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:47:53.300 +00:00 [Information] Received HTTP response headers after 311.7983ms - 200
+2021-11-25 15:47:53.338 +00:00 [Information] End processing HTTP request after 661.8446ms - 200
+2021-11-25 15:47:53.587 +00:00 [Information] Received HTTP response headers after 1105.3451ms - 200
+2021-11-25 15:47:53.954 +00:00 [Information] End processing HTTP request after 1575.8276ms - 200
+2021-11-25 15:48:03.978 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:48:04.005 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:48:04.072 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:48:04.101 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:48:04.642 +00:00 [Information] Received HTTP response headers after 150.0023ms - 200
+2021-11-25 15:48:04.653 +00:00 [Information] End processing HTTP request after 581.8395ms - 200
+2021-11-25 15:48:04.800 +00:00 [Information] Received HTTP response headers after 806.6884ms - 200
+2021-11-25 15:48:04.816 +00:00 [Information] End processing HTTP request after 828.7037ms - 200
+2021-11-25 15:48:15.096 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:48:15.117 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:48:15.243 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:48:15.559 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:48:15.917 +00:00 [Information] Received HTTP response headers after 594.0936ms - 200
+2021-11-25 15:48:16.070 +00:00 [Information] End processing HTTP request after 700.3442ms - 200
+2021-11-25 15:48:16.506 +00:00 [Information] Received HTTP response headers after 1060.3317ms - 200
+2021-11-25 15:48:16.665 +00:00 [Information] End processing HTTP request after 1593.9324ms - 200
+2021-11-25 15:49:21.117 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:21.237 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:22.215 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+2021-11-25 15:49:22.336 +00:00 [Information] Hosting environment: "Development"
+2021-11-25 15:49:22.495 +00:00 [Information] Content root path: "C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce"
+2021-11-25 15:49:22.925 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:22.931 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:24.108 +00:00 [Information] Received HTTP response headers after 1166.5607ms - 200
+2021-11-25 15:49:24.113 +00:00 [Information] End processing HTTP request after 1189.9462ms - 200
+2021-11-25 15:49:24.485 +00:00 [Information] Received HTTP response headers after 3249.8252ms - 200
+2021-11-25 15:49:24.490 +00:00 [Information] End processing HTTP request after 3403.228ms - 200
+2021-11-25 15:49:35.680 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:35.928 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:36.002 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:36.014 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:36.174 +00:00 [Information] Received HTTP response headers after 164.4949ms - 200
+2021-11-25 15:49:36.181 +00:00 [Information] End processing HTTP request after 183.67ms - 200
+2021-11-25 15:49:36.379 +00:00 [Information] Received HTTP response headers after 657.6985ms - 200
+2021-11-25 15:49:36.395 +00:00 [Information] End processing HTTP request after 910.0606ms - 200
+2021-11-25 15:49:46.512 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:46.520 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:46.546 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:46.557 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:46.727 +00:00 [Information] Received HTTP response headers after 159.332ms - 200
+2021-11-25 15:49:46.734 +00:00 [Information] End processing HTTP request after 196.2126ms - 200
+2021-11-25 15:49:46.806 +00:00 [Information] Received HTTP response headers after 253.435ms - 200
+2021-11-25 15:49:46.846 +00:00 [Information] End processing HTTP request after 352.5722ms - 200
+2021-11-25 15:49:57.329 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:57.337 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:49:57.347 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:57.353 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:49:57.372 +00:00 [Error] No Accounts Registered with string.
+2021-11-25 15:49:57.626 +00:00 [Information] Received HTTP response headers after 155.4278ms - 200
+2021-11-25 15:49:57.845 +00:00 [Information] End processing HTTP request after 284.7035ms - 200
+2021-11-25 15:49:57.957 +00:00 [Information] Received HTTP response headers after 550.9542ms - 200
+2021-11-25 15:49:57.993 +00:00 [Information] End processing HTTP request after 632.8122ms - 200
+2021-11-25 15:50:08.027 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:08.032 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:08.041 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:08.048 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:08.293 +00:00 [Information] Received HTTP response headers after 160.7665ms - 200
+2021-11-25 15:50:08.308 +00:00 [Information] End processing HTTP request after 256.0253ms - 200
+2021-11-25 15:50:08.338 +00:00 [Information] Received HTTP response headers after 283.9823ms - 200
+2021-11-25 15:50:08.365 +00:00 [Information] End processing HTTP request after 321.9307ms - 200
+2021-11-25 15:50:18.377 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:18.380 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:18.387 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:18.390 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:18.530 +00:00 [Information] Received HTTP response headers after 136.9279ms - 200
+2021-11-25 15:50:18.536 +00:00 [Information] End processing HTTP request after 147.3111ms - 200
+2021-11-25 15:50:18.587 +00:00 [Information] Received HTTP response headers after 207.4061ms - 200
+2021-11-25 15:50:18.592 +00:00 [Information] End processing HTTP request after 213.4376ms - 200
+2021-11-25 15:50:28.623 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:28.627 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:28.649 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:28.654 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:28.800 +00:00 [Information] Received HTTP response headers after 145.545ms - 200
+2021-11-25 15:50:28.804 +00:00 [Information] End processing HTTP request after 160.0012ms - 200
+2021-11-25 15:50:28.970 +00:00 [Information] Received HTTP response headers after 340.5122ms - 200
+2021-11-25 15:50:28.984 +00:00 [Information] End processing HTTP request after 351.8705ms - 200
+2021-11-25 15:50:39.252 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:39.311 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:40.420 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:40.431 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:40.581 +00:00 [Information] Received HTTP response headers after 147.323ms - 200
+2021-11-25 15:50:40.595 +00:00 [Information] End processing HTTP request after 657.1132ms - 200
+2021-11-25 15:50:40.683 +00:00 [Information] Received HTTP response headers after 1424.4809ms - 200
+2021-11-25 15:50:40.729 +00:00 [Information] End processing HTTP request after 1629.3988ms - 200
+2021-11-25 15:50:50.759 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:50.772 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:50:50.861 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:50.877 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:50:51.044 +00:00 [Information] Received HTTP response headers after 170.3864ms - 200
+2021-11-25 15:50:51.128 +00:00 [Information] End processing HTTP request after 216.6067ms - 200
+2021-11-25 15:50:51.227 +00:00 [Information] Received HTTP response headers after 392.6766ms - 200
+2021-11-25 15:50:51.233 +00:00 [Information] End processing HTTP request after 477.4734ms - 200
+2021-11-25 15:51:01.299 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:01.314 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:01.331 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:01.346 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:01.473 +00:00 [Information] Received HTTP response headers after 138.3458ms - 200
+2021-11-25 15:51:01.478 +00:00 [Information] End processing HTTP request after 148.7987ms - 200
+2021-11-25 15:51:01.537 +00:00 [Information] Received HTTP response headers after 220.2692ms - 200
+2021-11-25 15:51:01.608 +00:00 [Information] End processing HTTP request after 264.9228ms - 200
+2021-11-25 15:51:11.735 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:11.743 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:11.763 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:11.769 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:11.980 +00:00 [Information] Received HTTP response headers after 148.8536ms - 200
+2021-11-25 15:51:11.997 +00:00 [Information] End processing HTTP request after 222.2491ms - 200
+2021-11-25 15:51:12.029 +00:00 [Information] Received HTTP response headers after 265.3135ms - 200
+2021-11-25 15:51:12.050 +00:00 [Information] End processing HTTP request after 396.6266ms - 200
+2021-11-25 15:51:22.068 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:22.072 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:22.110 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:22.118 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:22.292 +00:00 [Information] Received HTTP response headers after 177.377ms - 200
+2021-11-25 15:51:22.299 +00:00 [Information] End processing HTTP request after 202.0752ms - 200
+2021-11-25 15:51:22.369 +00:00 [Information] Received HTTP response headers after 296.2ms - 200
+2021-11-25 15:51:22.420 +00:00 [Information] End processing HTTP request after 309.8835ms - 200
+2021-11-25 15:51:32.449 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:32.453 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:32.463 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:32.468 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:34.165 +00:00 [Information] Received HTTP response headers after 1690.6102ms - 200
+2021-11-25 15:51:34.210 +00:00 [Information] End processing HTTP request after 1707.8308ms - 200
+2021-11-25 15:51:34.812 +00:00 [Information] Received HTTP response headers after 2223.2832ms - 200
+2021-11-25 15:51:34.847 +00:00 [Information] End processing HTTP request after 2376.622ms - 200
+2021-11-25 15:51:44.945 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:44.953 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:44.966 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:44.973 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:45.133 +00:00 [Information] Received HTTP response headers after 140.7395ms - 200
+2021-11-25 15:51:45.155 +00:00 [Information] End processing HTTP request after 172.9205ms - 200
+2021-11-25 15:51:45.193 +00:00 [Information] Received HTTP response headers after 220.0927ms - 200
+2021-11-25 15:51:45.201 +00:00 [Information] End processing HTTP request after 265.2479ms - 200
+2021-11-25 15:51:55.303 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:55.333 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:51:55.387 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:55.461 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:51:55.628 +00:00 [Information] Received HTTP response headers after 228.2526ms - 200
+2021-11-25 15:51:55.642 +00:00 [Information] End processing HTTP request after 258.1958ms - 200
+2021-11-25 15:51:56.008 +00:00 [Information] Received HTTP response headers after 610.3339ms - 200
+2021-11-25 15:51:56.160 +00:00 [Information] End processing HTTP request after 757.8456ms - 200
+2021-11-25 15:52:06.173 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:06.179 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:06.192 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:06.204 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:06.346 +00:00 [Information] Received HTTP response headers after 149.5087ms - 200
+2021-11-25 15:52:06.351 +00:00 [Information] End processing HTTP request after 161.5511ms - 200
+2021-11-25 15:52:06.400 +00:00 [Information] Received HTTP response headers after 221.6213ms - 200
+2021-11-25 15:52:06.405 +00:00 [Information] End processing HTTP request after 230.3656ms - 200
+2021-11-25 15:52:16.417 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:16.425 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:16.447 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:16.451 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:16.609 +00:00 [Information] Received HTTP response headers after 152.815ms - 200
+2021-11-25 15:52:16.667 +00:00 [Information] End processing HTTP request after 177.9388ms - 200
+2021-11-25 15:52:16.677 +00:00 [Information] Received HTTP response headers after 253.3463ms - 200
+2021-11-25 15:52:16.681 +00:00 [Information] End processing HTTP request after 268.9557ms - 200
+2021-11-25 15:52:26.745 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:26.751 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:26.772 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:26.780 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:26.918 +00:00 [Information] Received HTTP response headers after 139.0756ms - 200
+2021-11-25 15:52:26.925 +00:00 [Information] End processing HTTP request after 161.1428ms - 200
+2021-11-25 15:52:26.977 +00:00 [Information] Received HTTP response headers after 227.8053ms - 200
+2021-11-25 15:52:26.985 +00:00 [Information] End processing HTTP request after 248.7344ms - 200
+2021-11-25 15:52:37.130 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:37.140 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:37.158 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:37.168 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:37.305 +00:00 [Information] Received HTTP response headers after 141.3404ms - 200
+2021-11-25 15:52:37.460 +00:00 [Information] End processing HTTP request after 153.5384ms - 200
+2021-11-25 15:52:37.543 +00:00 [Information] Received HTTP response headers after 401.8ms - 200
+2021-11-25 15:52:37.559 +00:00 [Information] End processing HTTP request after 537.4835ms - 200
+2021-11-25 15:52:47.592 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:47.596 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:47.610 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:47.614 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:47.756 +00:00 [Information] Received HTTP response headers after 142.2756ms - 200
+2021-11-25 15:52:47.762 +00:00 [Information] End processing HTTP request after 150.5351ms - 200
+2021-11-25 15:52:47.850 +00:00 [Information] Received HTTP response headers after 249.9452ms - 200
+2021-11-25 15:52:47.859 +00:00 [Information] End processing HTTP request after 264.3928ms - 200
+2021-11-25 15:52:57.881 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:57.886 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:52:57.903 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:57.921 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:52:58.194 +00:00 [Information] Received HTTP response headers after 164.1112ms - 200
+2021-11-25 15:52:58.281 +00:00 [Information] End processing HTTP request after 302.5732ms - 200
+2021-11-25 15:52:58.314 +00:00 [Information] Received HTTP response headers after 403.0227ms - 200
+2021-11-25 15:52:58.361 +00:00 [Information] End processing HTTP request after 442.1493ms - 200
+2021-11-25 15:53:08.394 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:08.407 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:08.445 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:08.457 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:08.622 +00:00 [Information] Received HTTP response headers after 156.7283ms - 200
+2021-11-25 15:53:08.628 +00:00 [Information] End processing HTTP request after 198.7894ms - 200
+2021-11-25 15:53:08.670 +00:00 [Information] Received HTTP response headers after 270.5088ms - 200
+2021-11-25 15:53:08.677 +00:00 [Information] End processing HTTP request after 287.5351ms - 200
+2021-11-25 15:53:18.698 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:18.704 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:18.713 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:18.721 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:18.961 +00:00 [Information] Received HTTP response headers after 243.1011ms - 200
+2021-11-25 15:53:18.982 +00:00 [Information] End processing HTTP request after 253.4677ms - 200
+2021-11-25 15:53:19.235 +00:00 [Information] Received HTTP response headers after 527.7776ms - 200
+2021-11-25 15:53:19.243 +00:00 [Information] End processing HTTP request after 542.2282ms - 200
+2021-11-25 15:53:29.272 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:29.275 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:29.293 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:29.302 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:29.445 +00:00 [Information] Received HTTP response headers after 147.6316ms - 200
+2021-11-25 15:53:29.453 +00:00 [Information] End processing HTTP request after 160.5334ms - 200
+2021-11-25 15:53:29.485 +00:00 [Information] Received HTTP response headers after 206.0983ms - 200
+2021-11-25 15:53:29.490 +00:00 [Information] End processing HTTP request after 220.6894ms - 200
+2021-11-25 15:53:39.537 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:39.542 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:39.552 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:39.557 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:40.359 +00:00 [Information] Received HTTP response headers after 553.0097ms - 200
+2021-11-25 15:53:40.380 +00:00 [Information] End processing HTTP request after 812.5447ms - 200
+2021-11-25 15:53:40.450 +00:00 [Information] Received HTTP response headers after 908.8049ms - 200
+2021-11-25 15:53:40.453 +00:00 [Information] End processing HTTP request after 916.7988ms - 200
+2021-11-25 15:53:50.483 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:50.489 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:53:50.507 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:50.511 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:53:50.637 +00:00 [Information] Received HTTP response headers after 126.0911ms - 200
+2021-11-25 15:53:50.644 +00:00 [Information] End processing HTTP request after 135.2867ms - 200
+2021-11-25 15:53:50.862 +00:00 [Information] Received HTTP response headers after 307.7103ms - 200
+2021-11-25 15:53:50.876 +00:00 [Information] End processing HTTP request after 400.6485ms - 200
+2021-11-25 15:54:00.900 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:00.912 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:00.937 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:00.947 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:01.096 +00:00 [Information] Received HTTP response headers after 151.9021ms - 200
+2021-11-25 15:54:01.138 +00:00 [Information] End processing HTTP request after 177.2571ms - 200
+2021-11-25 15:54:01.146 +00:00 [Information] Received HTTP response headers after 240.1184ms - 200
+2021-11-25 15:54:01.149 +00:00 [Information] End processing HTTP request after 253.7425ms - 200
+2021-11-25 15:54:11.168 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:11.172 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:11.186 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:11.210 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:11.403 +00:00 [Information] Received HTTP response headers after 161.2505ms - 200
+2021-11-25 15:54:11.416 +00:00 [Information] End processing HTTP request after 221.4518ms - 200
+2021-11-25 15:54:11.433 +00:00 [Information] Received HTTP response headers after 253.5189ms - 200
+2021-11-25 15:54:11.441 +00:00 [Information] End processing HTTP request after 274.4359ms - 200
+2021-11-25 15:54:21.454 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:21.459 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:21.471 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:21.478 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:21.815 +00:00 [Information] Received HTTP response headers after 339.4918ms - 200
+2021-11-25 15:54:21.823 +00:00 [Information] End processing HTTP request after 352.9671ms - 200
+2021-11-25 15:54:21.891 +00:00 [Information] Received HTTP response headers after 428.8763ms - 200
+2021-11-25 15:54:21.897 +00:00 [Information] End processing HTTP request after 440.4989ms - 200
+2021-11-25 15:54:31.910 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:31.915 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:31.955 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:31.971 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:32.137 +00:00 [Information] Received HTTP response headers after 143.8154ms - 200
+2021-11-25 15:54:32.147 +00:00 [Information] End processing HTTP request after 216.9055ms - 200
+2021-11-25 15:54:32.313 +00:00 [Information] Received HTTP response headers after 239.6817ms - 200
+2021-11-25 15:54:32.392 +00:00 [Information] End processing HTTP request after 405.8907ms - 200
+2021-11-25 15:54:42.438 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:42.469 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:42.509 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:42.531 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:42.789 +00:00 [Information] Received HTTP response headers after 254.0345ms - 200
+2021-11-25 15:54:42.809 +00:00 [Information] End processing HTTP request after 306.3311ms - 200
+2021-11-25 15:54:42.846 +00:00 [Information] Received HTTP response headers after 374.3054ms - 200
+2021-11-25 15:54:42.859 +00:00 [Information] End processing HTTP request after 433.5218ms - 200
+2021-11-25 15:54:52.893 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:52.908 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:54:52.982 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:52.986 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:54:53.180 +00:00 [Information] Received HTTP response headers after 144.9665ms - 200
+2021-11-25 15:54:53.194 +00:00 [Information] End processing HTTP request after 244.0395ms - 200
+2021-11-25 15:54:53.228 +00:00 [Information] Received HTTP response headers after 330.4812ms - 200
+2021-11-25 15:54:53.234 +00:00 [Information] End processing HTTP request after 347.4828ms - 200
+2021-11-25 15:55:03.254 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:03.260 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:03.280 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:03.292 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:03.461 +00:00 [Information] Received HTTP response headers after 174.738ms - 200
+2021-11-25 15:55:03.492 +00:00 [Information] End processing HTTP request after 190.4087ms - 200
+2021-11-25 15:55:03.542 +00:00 [Information] Received HTTP response headers after 261.4962ms - 200
+2021-11-25 15:55:03.561 +00:00 [Information] End processing HTTP request after 291.5037ms - 200
+2021-11-25 15:55:13.579 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:13.585 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:13.596 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:13.602 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:13.741 +00:00 [Information] Received HTTP response headers after 136.4084ms - 200
+2021-11-25 15:55:13.750 +00:00 [Information] End processing HTTP request after 149.1698ms - 200
+2021-11-25 15:55:13.790 +00:00 [Information] Received HTTP response headers after 206.2675ms - 200
+2021-11-25 15:55:13.798 +00:00 [Information] End processing HTTP request after 215.6842ms - 200
+2021-11-25 15:55:23.809 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:23.814 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:23.820 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:23.825 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:23.945 +00:00 [Information] Received HTTP response headers after 122.2864ms - 200
+2021-11-25 15:55:23.952 +00:00 [Information] End processing HTTP request after 129.1475ms - 200
+2021-11-25 15:55:23.999 +00:00 [Information] Received HTTP response headers after 186.4467ms - 200
+2021-11-25 15:55:24.006 +00:00 [Information] End processing HTTP request after 193.0137ms - 200
+2021-11-25 15:55:34.068 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:34.078 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:34.135 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:34.141 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:34.278 +00:00 [Information] Received HTTP response headers after 137.8832ms - 200
+2021-11-25 15:55:34.321 +00:00 [Information] End processing HTTP request after 147.0398ms - 200
+2021-11-25 15:55:34.359 +00:00 [Information] Received HTTP response headers after 280.1701ms - 200
+2021-11-25 15:55:34.369 +00:00 [Information] End processing HTTP request after 298.5628ms - 200
+2021-11-25 15:55:44.765 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:44.982 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:45.911 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:46.063 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:49.064 +00:00 [Information] Received HTTP response headers after 3126.8322ms - 200
+2021-11-25 15:55:49.071 +00:00 [Information] End processing HTTP request after 3652.4061ms - 200
+2021-11-25 15:55:49.451 +00:00 [Information] Received HTTP response headers after 4581.4777ms - 200
+2021-11-25 15:55:49.582 +00:00 [Information] End processing HTTP request after 5002.8682ms - 200
+2021-11-25 15:55:59.589 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:59.595 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:55:59.613 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:59.620 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:55:59.805 +00:00 [Information] Received HTTP response headers after 154.7541ms - 200
+2021-11-25 15:55:59.812 +00:00 [Information] End processing HTTP request after 203.2898ms - 200
+2021-11-25 15:55:59.961 +00:00 [Information] Received HTTP response headers after 338.5841ms - 200
+2021-11-25 15:55:59.973 +00:00 [Information] End processing HTTP request after 376.2847ms - 200
+2021-11-25 15:56:10.006 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:10.015 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:10.025 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:10.030 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:10.337 +00:00 [Information] Received HTTP response headers after 141.2439ms - 200
+2021-11-25 15:56:10.437 +00:00 [Information] End processing HTTP request after 318.0714ms - 200
+2021-11-25 15:56:10.454 +00:00 [Information] Received HTTP response headers after 433.4342ms - 200
+2021-11-25 15:56:10.461 +00:00 [Information] End processing HTTP request after 460.1893ms - 200
+2021-11-25 15:56:20.482 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:20.487 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:20.496 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:20.502 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:20.654 +00:00 [Information] Received HTTP response headers after 151.2936ms - 200
+2021-11-25 15:56:20.658 +00:00 [Information] End processing HTTP request after 162.0592ms - 200
+2021-11-25 15:56:20.720 +00:00 [Information] Received HTTP response headers after 223.6937ms - 200
+2021-11-25 15:56:20.740 +00:00 [Information] End processing HTTP request after 244.2243ms - 200
+2021-11-25 15:56:30.754 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:30.759 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:30.766 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:30.771 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:30.920 +00:00 [Information] Received HTTP response headers after 143.2578ms - 200
+2021-11-25 15:56:30.929 +00:00 [Information] End processing HTTP request after 159.2131ms - 200
+2021-11-25 15:56:30.990 +00:00 [Information] Received HTTP response headers after 231.8096ms - 200
+2021-11-25 15:56:30.999 +00:00 [Information] End processing HTTP request after 239.2857ms - 200
+2021-11-25 15:56:41.027 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:41.032 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:41.047 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:41.055 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:41.201 +00:00 [Information] Received HTTP response headers after 149.1422ms - 200
+2021-11-25 15:56:41.207 +00:00 [Information] End processing HTTP request after 164.6536ms - 200
+2021-11-25 15:56:41.278 +00:00 [Information] Received HTTP response headers after 244.0664ms - 200
+2021-11-25 15:56:41.283 +00:00 [Information] End processing HTTP request after 255.8378ms - 200
+2021-11-25 15:56:51.292 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:51.299 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:56:51.324 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:51.350 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:56:51.488 +00:00 [Information] Received HTTP response headers after 157.1909ms - 200
+2021-11-25 15:56:51.492 +00:00 [Information] End processing HTTP request after 176.2164ms - 200
+2021-11-25 15:56:51.552 +00:00 [Information] Received HTTP response headers after 256.2302ms - 200
+2021-11-25 15:56:51.558 +00:00 [Information] End processing HTTP request after 264.2276ms - 200
+2021-11-25 15:57:01.580 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:01.594 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:01.620 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:01.629 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:01.811 +00:00 [Information] Received HTTP response headers after 177.2464ms - 200
+2021-11-25 15:57:01.825 +00:00 [Information] End processing HTTP request after 205.7742ms - 200
+2021-11-25 15:57:01.842 +00:00 [Information] Received HTTP response headers after 255.8354ms - 200
+2021-11-25 15:57:01.848 +00:00 [Information] End processing HTTP request after 268.2925ms - 200
+2021-11-25 15:57:11.881 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:11.885 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:11.901 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:11.907 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:12.048 +00:00 [Information] Received HTTP response headers after 141.7475ms - 200
+2021-11-25 15:57:12.053 +00:00 [Information] End processing HTTP request after 150.3739ms - 200
+2021-11-25 15:57:12.116 +00:00 [Information] Received HTTP response headers after 229.2583ms - 200
+2021-11-25 15:57:12.120 +00:00 [Information] End processing HTTP request after 238.6392ms - 200
+2021-11-25 15:57:22.130 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:22.134 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:22.142 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:22.148 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:22.299 +00:00 [Information] Received HTTP response headers after 151.6806ms - 200
+2021-11-25 15:57:22.304 +00:00 [Information] End processing HTTP request after 161.6358ms - 200
+2021-11-25 15:57:22.352 +00:00 [Information] Received HTTP response headers after 217.6774ms - 200
+2021-11-25 15:57:22.356 +00:00 [Information] End processing HTTP request after 226.7285ms - 200
+2021-11-25 15:57:32.367 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:32.373 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:32.391 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:32.399 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:32.809 +00:00 [Information] Received HTTP response headers after 246.3411ms - 200
+2021-11-25 15:57:32.879 +00:00 [Information] End processing HTTP request after 423.9677ms - 200
+2021-11-25 15:57:32.899 +00:00 [Information] Received HTTP response headers after 516.1073ms - 200
+2021-11-25 15:57:32.911 +00:00 [Information] End processing HTTP request after 537.9986ms - 200
+2021-11-25 15:57:42.921 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:42.927 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:42.949 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:42.952 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:43.121 +00:00 [Information] Received HTTP response headers after 166.0516ms - 200
+2021-11-25 15:57:43.127 +00:00 [Information] End processing HTTP request after 177.7508ms - 200
+2021-11-25 15:57:43.219 +00:00 [Information] Received HTTP response headers after 265.5135ms - 200
+2021-11-25 15:57:43.226 +00:00 [Information] End processing HTTP request after 302.9894ms - 200
+2021-11-25 15:57:53.264 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:53.291 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:57:53.516 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:53.822 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:57:54.479 +00:00 [Information] Received HTTP response headers after 947.0028ms - 200
+2021-11-25 15:57:54.490 +00:00 [Information] End processing HTTP request after 1152.1317ms - 200
+2021-11-25 15:57:54.821 +00:00 [Information] Received HTTP response headers after 1553.8684ms - 200
+2021-11-25 15:57:54.826 +00:00 [Information] End processing HTTP request after 1568.2603ms - 200
+2021-11-25 15:58:04.838 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:04.844 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:04.856 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:04.871 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:05.061 +00:00 [Information] Received HTTP response headers after 201.0787ms - 200
+2021-11-25 15:58:05.067 +00:00 [Information] End processing HTTP request after 214.0107ms - 200
+2021-11-25 15:58:05.149 +00:00 [Information] Received HTTP response headers after 305.4158ms - 200
+2021-11-25 15:58:05.156 +00:00 [Information] End processing HTTP request after 315.5077ms - 200
+2021-11-25 15:58:15.176 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:15.180 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:15.194 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:15.200 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:15.342 +00:00 [Information] Received HTTP response headers after 143.4062ms - 200
+2021-11-25 15:58:15.348 +00:00 [Information] End processing HTTP request after 157.5103ms - 200
+2021-11-25 15:58:15.491 +00:00 [Information] Received HTTP response headers after 310.5331ms - 200
+2021-11-25 15:58:15.495 +00:00 [Information] End processing HTTP request after 318.5389ms - 200
+2021-11-25 15:58:25.518 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:25.523 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:25.532 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:25.537 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:25.676 +00:00 [Information] Received HTTP response headers after 139.2932ms - 200
+2021-11-25 15:58:25.682 +00:00 [Information] End processing HTTP request after 149.6201ms - 200
+2021-11-25 15:58:25.751 +00:00 [Information] Received HTTP response headers after 228.2613ms - 200
+2021-11-25 15:58:25.755 +00:00 [Information] End processing HTTP request after 240.4082ms - 200
+2021-11-25 15:58:35.785 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:35.811 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:35.841 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:35.856 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:36.140 +00:00 [Information] Received HTTP response headers after 159.423ms - 200
+2021-11-25 15:58:36.158 +00:00 [Information] End processing HTTP request after 313.9575ms - 200
+2021-11-25 15:58:36.181 +00:00 [Information] Received HTTP response headers after 375.9007ms - 200
+2021-11-25 15:58:36.191 +00:00 [Information] End processing HTTP request after 412.1496ms - 200
+2021-11-25 15:58:46.226 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:46.239 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:46.265 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:46.275 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:46.567 +00:00 [Information] Received HTTP response headers after 144.031ms - 200
+2021-11-25 15:58:46.592 +00:00 [Information] End processing HTTP request after 316.777ms - 200
+2021-11-25 15:58:46.629 +00:00 [Information] Received HTTP response headers after 376.9125ms - 200
+2021-11-25 15:58:46.667 +00:00 [Information] End processing HTTP request after 415.813ms - 200
+2021-11-25 15:58:56.678 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:56.682 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:58:56.704 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:56.717 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:58:56.872 +00:00 [Information] Received HTTP response headers after 156.1808ms - 200
+2021-11-25 15:58:56.905 +00:00 [Information] End processing HTTP request after 187.3863ms - 200
+2021-11-25 15:58:56.934 +00:00 [Information] Received HTTP response headers after 252.1386ms - 200
+2021-11-25 15:58:56.942 +00:00 [Information] End processing HTTP request after 259.9283ms - 200
+2021-11-25 15:59:06.960 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:06.973 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:07.010 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:07.020 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:07.163 +00:00 [Information] Received HTTP response headers after 143.4255ms - 200
+2021-11-25 15:59:07.171 +00:00 [Information] End processing HTTP request after 181.4106ms - 200
+2021-11-25 15:59:07.239 +00:00 [Information] Received HTTP response headers after 266.7141ms - 200
+2021-11-25 15:59:07.249 +00:00 [Information] End processing HTTP request after 286.4275ms - 200
+2021-11-25 15:59:17.272 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:17.276 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:17.284 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:17.288 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:17.417 +00:00 [Information] Received HTTP response headers after 127.9195ms - 200
+2021-11-25 15:59:17.425 +00:00 [Information] End processing HTTP request after 139.0414ms - 200
+2021-11-25 15:59:17.480 +00:00 [Information] Received HTTP response headers after 204.7698ms - 200
+2021-11-25 15:59:17.484 +00:00 [Information] End processing HTTP request after 212.4587ms - 200
+2021-11-25 15:59:27.496 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:27.504 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:27.522 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:27.533 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:27.663 +00:00 [Information] Received HTTP response headers after 131.5382ms - 200
+2021-11-25 15:59:27.673 +00:00 [Information] End processing HTTP request after 152.0081ms - 200
+2021-11-25 15:59:27.743 +00:00 [Information] Received HTTP response headers after 230.3223ms - 200
+2021-11-25 15:59:27.793 +00:00 [Information] End processing HTTP request after 251.2987ms - 200
+2021-11-25 15:59:37.810 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:37.821 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:37.841 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:37.849 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:37.999 +00:00 [Information] Received HTTP response headers after 153.8626ms - 200
+2021-11-25 15:59:38.005 +00:00 [Information] End processing HTTP request after 169.2082ms - 200
+2021-11-25 15:59:38.141 +00:00 [Information] Received HTTP response headers after 328.1688ms - 200
+2021-11-25 15:59:38.146 +00:00 [Information] End processing HTTP request after 337.0343ms - 200
+2021-11-25 15:59:48.295 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:48.333 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:48.396 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:48.409 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:48.561 +00:00 [Information] Received HTTP response headers after 159.3784ms - 200
+2021-11-25 15:59:48.608 +00:00 [Information] End processing HTTP request after 173.833ms - 200
+2021-11-25 15:59:48.633 +00:00 [Information] Received HTTP response headers after 332.5684ms - 200
+2021-11-25 15:59:48.638 +00:00 [Information] End processing HTTP request after 456.2739ms - 200
+2021-11-25 15:59:58.663 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:58.667 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 15:59:58.678 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:58.683 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 15:59:59.159 +00:00 [Information] Received HTTP response headers after 476.6426ms - 200
+2021-11-25 15:59:59.168 +00:00 [Information] End processing HTTP request after 487.325ms - 200
+2021-11-25 15:59:59.563 +00:00 [Information] Received HTTP response headers after 883.9986ms - 200
+2021-11-25 15:59:59.571 +00:00 [Information] End processing HTTP request after 906.3982ms - 200
+2021-11-25 16:00:09.589 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:09.595 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:09.666 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:09.698 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:09.890 +00:00 [Information] Received HTTP response headers after 216.6548ms - 200
+2021-11-25 16:00:09.904 +00:00 [Information] End processing HTTP request after 264.2683ms - 200
+2021-11-25 16:00:10.015 +00:00 [Information] Received HTTP response headers after 421.9514ms - 200
+2021-11-25 16:00:10.021 +00:00 [Information] End processing HTTP request after 430.889ms - 200
+2021-11-25 16:00:20.047 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:20.052 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:20.069 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:20.074 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:20.237 +00:00 [Information] Received HTTP response headers after 161.4033ms - 200
+2021-11-25 16:00:20.243 +00:00 [Information] End processing HTTP request after 176.0434ms - 200
+2021-11-25 16:00:20.636 +00:00 [Information] Received HTTP response headers after 289.2157ms - 200
+2021-11-25 16:00:20.754 +00:00 [Information] End processing HTTP request after 594.1763ms - 200
+2021-11-25 16:00:31.036 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:31.136 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:31.150 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:31.155 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:31.486 +00:00 [Information] Received HTTP response headers after 330.1806ms - 200
+2021-11-25 16:00:31.522 +00:00 [Information] End processing HTTP request after 344.8471ms - 200
+2021-11-25 16:00:31.829 +00:00 [Information] Received HTTP response headers after 788.0347ms - 200
+2021-11-25 16:00:31.847 +00:00 [Information] End processing HTTP request after 1034.7372ms - 200
+2021-11-25 16:00:42.171 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:42.183 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:42.213 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:42.224 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:42.427 +00:00 [Information] Received HTTP response headers after 140.8834ms - 200
+2021-11-25 16:00:42.436 +00:00 [Information] End processing HTTP request after 224.4413ms - 200
+2021-11-25 16:00:42.471 +00:00 [Information] Received HTTP response headers after 267.2452ms - 200
+2021-11-25 16:00:42.481 +00:00 [Information] End processing HTTP request after 565.231ms - 200
+2021-11-25 16:00:52.508 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:52.512 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:00:52.525 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:52.529 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:00:52.669 +00:00 [Information] Received HTTP response headers after 131.1479ms - 200
+2021-11-25 16:00:52.675 +00:00 [Information] End processing HTTP request after 147.1594ms - 200
+2021-11-25 16:00:52.743 +00:00 [Information] Received HTTP response headers after 224.7573ms - 200
+2021-11-25 16:00:52.748 +00:00 [Information] End processing HTTP request after 239.1687ms - 200
+2021-11-25 16:01:02.756 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:02.761 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:02.787 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:02.793 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:02.955 +00:00 [Information] Received HTTP response headers after 148.9953ms - 200
+2021-11-25 16:01:02.975 +00:00 [Information] End processing HTTP request after 172.9151ms - 200
+2021-11-25 16:01:03.012 +00:00 [Information] Received HTTP response headers after 249.7296ms - 200
+2021-11-25 16:01:03.025 +00:00 [Information] End processing HTTP request after 262.0992ms - 200
+2021-11-25 16:01:13.049 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:13.056 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:13.070 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:13.082 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:13.216 +00:00 [Information] Received HTTP response headers after 140.6155ms - 200
+2021-11-25 16:01:13.221 +00:00 [Information] End processing HTTP request after 152.6353ms - 200
+2021-11-25 16:01:13.278 +00:00 [Information] Received HTTP response headers after 223.528ms - 200
+2021-11-25 16:01:13.282 +00:00 [Information] End processing HTTP request after 234.5673ms - 200
+2021-11-25 16:01:23.312 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:23.318 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:23.330 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:23.336 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:23.482 +00:00 [Information] Received HTTP response headers after 146.0833ms - 200
+2021-11-25 16:01:23.486 +00:00 [Information] End processing HTTP request after 156.2648ms - 200
+2021-11-25 16:01:23.554 +00:00 [Information] Received HTTP response headers after 235.7422ms - 200
+2021-11-25 16:01:23.571 +00:00 [Information] End processing HTTP request after 246.1176ms - 200
+2021-11-25 16:01:33.688 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:33.769 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:33.807 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:33.826 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:33.994 +00:00 [Information] Received HTTP response headers after 170.054ms - 200
+2021-11-25 16:01:34.001 +00:00 [Information] End processing HTTP request after 207.9364ms - 200
+2021-11-25 16:01:34.154 +00:00 [Information] Received HTTP response headers after 424.2498ms - 200
+2021-11-25 16:01:34.166 +00:00 [Information] End processing HTTP request after 503.7612ms - 200
+2021-11-25 16:01:44.195 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:44.201 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:44.227 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:44.240 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:44.389 +00:00 [Information] Received HTTP response headers after 154.3102ms - 200
+2021-11-25 16:01:44.451 +00:00 [Information] End processing HTTP request after 175.8135ms - 200
+2021-11-25 16:01:44.559 +00:00 [Information] Received HTTP response headers after 325.1813ms - 200
+2021-11-25 16:01:44.573 +00:00 [Information] End processing HTTP request after 369.3258ms - 200
+2021-11-25 16:01:54.593 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:54.600 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:01:54.641 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:54.648 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:01:54.805 +00:00 [Information] Received HTTP response headers after 155.9527ms - 200
+2021-11-25 16:01:54.813 +00:00 [Information] End processing HTTP request after 191.5056ms - 200
+2021-11-25 16:01:54.844 +00:00 [Information] Received HTTP response headers after 243.9614ms - 200
+2021-11-25 16:01:54.850 +00:00 [Information] End processing HTTP request after 255.7702ms - 200
+2021-11-25 16:02:05.482 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:06.645 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:09.123 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:10.110 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:12.816 +00:00 [Information] Received HTTP response headers after 3680.7278ms - 200
+2021-11-25 16:02:12.823 +00:00 [Information] End processing HTTP request after 4360.8131ms - 200
+2021-11-25 16:02:13.300 +00:00 [Information] Received HTTP response headers after 7808.8452ms - 200
+2021-11-25 16:02:13.306 +00:00 [Information] End processing HTTP request after 8431.5808ms - 200
+2021-11-25 16:02:23.333 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:23.341 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:23.358 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:23.364 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:23.512 +00:00 [Information] Received HTTP response headers after 149.0338ms - 200
+2021-11-25 16:02:23.518 +00:00 [Information] End processing HTTP request after 162.5341ms - 200
+2021-11-25 16:02:23.657 +00:00 [Information] Received HTTP response headers after 320.282ms - 200
+2021-11-25 16:02:23.663 +00:00 [Information] End processing HTTP request after 331.8406ms - 200
+2021-11-25 16:02:33.678 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:33.684 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:33.711 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:33.717 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:33.862 +00:00 [Information] Received HTTP response headers after 129.9133ms - 200
+2021-11-25 16:02:33.870 +00:00 [Information] End processing HTTP request after 162.5909ms - 200
+2021-11-25 16:02:33.915 +00:00 [Information] Received HTTP response headers after 231.28ms - 200
+2021-11-25 16:02:33.926 +00:00 [Information] End processing HTTP request after 241.1424ms - 200
+2021-11-25 16:02:44.031 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:44.051 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:44.140 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:44.153 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:44.287 +00:00 [Information] Received HTTP response headers after 141.5735ms - 200
+2021-11-25 16:02:44.293 +00:00 [Information] End processing HTTP request after 173.6966ms - 200
+2021-11-25 16:02:44.351 +00:00 [Information] Received HTTP response headers after 316.6029ms - 200
+2021-11-25 16:02:44.356 +00:00 [Information] End processing HTTP request after 367.42ms - 200
+2021-11-25 16:02:54.378 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:54.383 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:02:54.399 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:54.416 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:02:54.549 +00:00 [Information] Received HTTP response headers after 143.9232ms - 200
+2021-11-25 16:02:54.560 +00:00 [Information] End processing HTTP request after 163.6946ms - 200
+2021-11-25 16:02:54.720 +00:00 [Information] Received HTTP response headers after 336.5356ms - 200
+2021-11-25 16:02:54.727 +00:00 [Information] End processing HTTP request after 346.0529ms - 200
+2021-11-25 16:03:04.753 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:04.780 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:04.813 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:04.820 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:04.972 +00:00 [Information] Received HTTP response headers after 148.269ms - 200
+2021-11-25 16:03:04.980 +00:00 [Information] End processing HTTP request after 172.0222ms - 200
+2021-11-25 16:03:05.062 +00:00 [Information] Received HTTP response headers after 304.9859ms - 200
+2021-11-25 16:03:05.066 +00:00 [Information] End processing HTTP request after 319.5675ms - 200
+2021-11-25 16:03:15.078 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:15.087 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:15.111 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:15.144 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:15.312 +00:00 [Information] Received HTTP response headers after 192.9959ms - 200
+2021-11-25 16:03:15.319 +00:00 [Information] End processing HTTP request after 210.3673ms - 200
+2021-11-25 16:03:15.361 +00:00 [Information] Received HTTP response headers after 278.9369ms - 200
+2021-11-25 16:03:15.366 +00:00 [Information] End processing HTTP request after 286.6051ms - 200
+2021-11-25 16:03:25.957 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:26.024 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:26.071 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:26.233 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:26.584 +00:00 [Information] Received HTTP response headers after 428.5301ms - 200
+2021-11-25 16:03:26.869 +00:00 [Information] End processing HTTP request after 534.7541ms - 200
+2021-11-25 16:03:27.734 +00:00 [Information] Received HTTP response headers after 928.9414ms - 200
+2021-11-25 16:03:28.592 +00:00 [Information] End processing HTTP request after 2251.7349ms - 200
+2021-11-25 16:03:38.622 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:38.627 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:38.639 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:38.649 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:38.856 +00:00 [Information] Received HTTP response headers after 136.3521ms - 200
+2021-11-25 16:03:39.052 +00:00 [Information] End processing HTTP request after 223.0136ms - 200
+2021-11-25 16:03:39.282 +00:00 [Information] Received HTTP response headers after 654.2549ms - 200
+2021-11-25 16:03:39.287 +00:00 [Information] End processing HTTP request after 668.1547ms - 200
+2021-11-25 16:03:49.306 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:49.310 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:49.319 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:49.324 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:49.486 +00:00 [Information] Received HTTP response headers after 147.8126ms - 200
+2021-11-25 16:03:49.496 +00:00 [Information] End processing HTTP request after 172.7775ms - 200
+2021-11-25 16:03:49.594 +00:00 [Information] Received HTTP response headers after 277.1977ms - 200
+2021-11-25 16:03:49.603 +00:00 [Information] End processing HTTP request after 292.1946ms - 200
+2021-11-25 16:03:59.784 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:59.817 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:03:59.887 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:03:59.912 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:04:00.675 +00:00 [Information] Received HTTP response headers after 722.8159ms - 200
+2021-11-25 16:04:01.155 +00:00 [Information] End processing HTTP request after 823.9724ms - 200
+2021-11-25 16:04:01.515 +00:00 [Information] Received HTTP response headers after 1430.8609ms - 200
+2021-11-25 16:04:01.575 +00:00 [Information] End processing HTTP request after 1751.9976ms - 200
+2021-11-25 16:12:41.507 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:12:41.864 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:12:46.594 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+2021-11-25 16:12:47.287 +00:00 [Information] Hosting environment: "Development"
+2021-11-25 16:12:47.788 +00:00 [Information] Content root path: "C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce"
+2021-11-25 16:12:49.325 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:12:49.343 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:12:50.535 +00:00 [Information] Received HTTP response headers after 1165.2214ms - 200
+2021-11-25 16:12:50.553 +00:00 [Information] End processing HTTP request after 1226.6156ms - 200
+2021-11-25 16:12:51.202 +00:00 [Information] Received HTTP response headers after 9377.3353ms - 200
+2021-11-25 16:12:51.205 +00:00 [Information] End processing HTTP request after 9735.4416ms - 200
+2021-11-25 16:13:01.938 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:01.944 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:01.960 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:01.968 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:02.123 +00:00 [Information] Received HTTP response headers after 159.1696ms - 200
+2021-11-25 16:13:02.129 +00:00 [Information] End processing HTTP request after 171.9659ms - 200
+2021-11-25 16:13:02.277 +00:00 [Information] Received HTTP response headers after 333.1249ms - 200
+2021-11-25 16:13:02.282 +00:00 [Information] End processing HTTP request after 342.5517ms - 200
+2021-11-25 16:13:12.348 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:12.354 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:12.373 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:12.381 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:12.533 +00:00 [Information] Received HTTP response headers after 152.9137ms - 200
+2021-11-25 16:13:12.538 +00:00 [Information] End processing HTTP request after 174.2635ms - 200
+2021-11-25 16:13:12.585 +00:00 [Information] Received HTTP response headers after 231.9262ms - 200
+2021-11-25 16:13:12.591 +00:00 [Information] End processing HTTP request after 243.3912ms - 200
+2021-11-25 16:13:22.604 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:22.611 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:22.631 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:22.636 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:22.783 +00:00 [Information] Received HTTP response headers after 145.937ms - 200
+2021-11-25 16:13:22.788 +00:00 [Information] End processing HTTP request after 161.382ms - 200
+2021-11-25 16:13:22.849 +00:00 [Information] Received HTTP response headers after 241.0956ms - 200
+2021-11-25 16:13:22.855 +00:00 [Information] End processing HTTP request after 249.7376ms - 200
+2021-11-25 16:13:32.880 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:32.885 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:32.898 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:32.902 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:33.024 +00:00 [Information] Received HTTP response headers after 121.0786ms - 200
+2021-11-25 16:13:33.028 +00:00 [Information] End processing HTTP request after 133.6559ms - 200
+2021-11-25 16:13:33.194 +00:00 [Information] Received HTTP response headers after 215.2049ms - 200
+2021-11-25 16:13:33.233 +00:00 [Information] End processing HTTP request after 324.7065ms - 200
+2021-11-25 16:13:43.990 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:44.579 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:46.076 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:46.663 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:47.715 +00:00 [Information] Received HTTP response headers after 1542.1573ms - 200
+2021-11-25 16:13:47.749 +00:00 [Information] End processing HTTP request after 2109.6059ms - 200
+2021-11-25 16:13:47.768 +00:00 [Information] Received HTTP response headers after 3767.2313ms - 200
+2021-11-25 16:13:47.781 +00:00 [Information] End processing HTTP request after 4450.835ms - 200
+2021-11-25 16:13:57.840 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:57.859 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:13:57.880 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:57.892 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:13:58.333 +00:00 [Information] Received HTTP response headers after 331.1313ms - 200
+2021-11-25 16:13:58.498 +00:00 [Information] End processing HTTP request after 463.4269ms - 200
+2021-11-25 16:13:58.596 +00:00 [Information] Received HTTP response headers after 747.9543ms - 200
+2021-11-25 16:13:58.607 +00:00 [Information] End processing HTTP request after 772.0041ms - 200
+2021-11-25 16:14:08.623 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:08.630 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:08.642 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:08.646 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:08.803 +00:00 [Information] Received HTTP response headers after 156.5189ms - 200
+2021-11-25 16:14:08.809 +00:00 [Information] End processing HTTP request after 167.0991ms - 200
+2021-11-25 16:14:08.969 +00:00 [Information] Received HTTP response headers after 331.0296ms - 200
+2021-11-25 16:14:09.001 +00:00 [Information] End processing HTTP request after 348.8885ms - 200
+2021-11-25 16:14:19.018 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:19.023 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:19.032 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:19.036 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:19.194 +00:00 [Information] Received HTTP response headers after 157.7583ms - 200
+2021-11-25 16:14:19.197 +00:00 [Information] End processing HTTP request after 167.9739ms - 200
+2021-11-25 16:14:19.264 +00:00 [Information] Received HTTP response headers after 241.9742ms - 200
+2021-11-25 16:14:19.273 +00:00 [Information] End processing HTTP request after 249.2245ms - 200
+2021-11-25 16:14:29.302 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:29.307 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:29.317 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:29.322 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:29.469 +00:00 [Information] Received HTTP response headers after 147.409ms - 200
+2021-11-25 16:14:29.479 +00:00 [Information] End processing HTTP request after 158.0274ms - 200
+2021-11-25 16:14:29.553 +00:00 [Information] Received HTTP response headers after 242.8137ms - 200
+2021-11-25 16:14:29.559 +00:00 [Information] End processing HTTP request after 255.8406ms - 200
+2021-11-25 16:14:39.712 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:39.752 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:39.778 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:39.782 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:39.922 +00:00 [Information] Received HTTP response headers after 133.2769ms - 200
+2021-11-25 16:14:39.957 +00:00 [Information] End processing HTTP request after 152.4605ms - 200
+2021-11-25 16:14:40.016 +00:00 [Information] Received HTTP response headers after 300.7764ms - 200
+2021-11-25 16:14:40.019 +00:00 [Information] End processing HTTP request after 402.1288ms - 200
+2021-11-25 16:14:50.046 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:50.054 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:14:50.070 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:50.075 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:14:50.650 +00:00 [Information] Received HTTP response headers after 566.9191ms - 200
+2021-11-25 16:14:50.666 +00:00 [Information] End processing HTTP request after 584.3449ms - 200
+2021-11-25 16:14:51.053 +00:00 [Information] Received HTTP response headers after 984.974ms - 200
+2021-11-25 16:14:51.058 +00:00 [Information] End processing HTTP request after 1010.1883ms - 200
+2021-11-25 16:15:01.107 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:01.159 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:01.188 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:01.200 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:01.375 +00:00 [Information] Received HTTP response headers after 180.026ms - 200
+2021-11-25 16:15:01.381 +00:00 [Information] End processing HTTP request after 195.7797ms - 200
+2021-11-25 16:15:01.416 +00:00 [Information] Received HTTP response headers after 304.0105ms - 200
+2021-11-25 16:15:01.426 +00:00 [Information] End processing HTTP request after 321.4242ms - 200
+2021-11-25 16:15:11.447 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:11.452 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:11.462 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:11.466 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:11.638 +00:00 [Information] Received HTTP response headers after 147.3705ms - 200
+2021-11-25 16:15:11.656 +00:00 [Information] End processing HTTP request after 180.7816ms - 200
+2021-11-25 16:15:11.707 +00:00 [Information] Received HTTP response headers after 255.2757ms - 200
+2021-11-25 16:15:11.712 +00:00 [Information] End processing HTTP request after 265.5855ms - 200
+2021-11-25 16:15:21.792 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:21.804 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:21.821 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:21.830 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:22.136 +00:00 [Information] Received HTTP response headers after 311.3092ms - 200
+2021-11-25 16:15:22.158 +00:00 [Information] End processing HTTP request after 323.8807ms - 200
+2021-11-25 16:15:22.300 +00:00 [Information] Received HTTP response headers after 432.3078ms - 200
+2021-11-25 16:15:22.324 +00:00 [Information] End processing HTTP request after 573.4706ms - 200
+2021-11-25 16:15:32.384 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:32.401 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:32.430 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:32.437 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:32.580 +00:00 [Information] Received HTTP response headers after 144.6665ms - 200
+2021-11-25 16:15:32.589 +00:00 [Information] End processing HTTP request after 155.0224ms - 200
+2021-11-25 16:15:32.649 +00:00 [Information] Received HTTP response headers after 249.6024ms - 200
+2021-11-25 16:15:32.657 +00:00 [Information] End processing HTTP request after 287.9927ms - 200
+2021-11-25 16:15:42.676 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:42.681 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:42.700 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:42.706 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:42.834 +00:00 [Information] Received HTTP response headers after 128.8409ms - 200
+2021-11-25 16:15:42.841 +00:00 [Information] End processing HTTP request after 149.2131ms - 200
+2021-11-25 16:15:42.895 +00:00 [Information] Received HTTP response headers after 214.6313ms - 200
+2021-11-25 16:15:42.899 +00:00 [Information] End processing HTTP request after 222.4781ms - 200
+2021-11-25 16:15:52.909 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:52.915 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:15:52.929 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:52.937 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:15:53.087 +00:00 [Information] Received HTTP response headers after 152.3376ms - 200
+2021-11-25 16:15:53.091 +00:00 [Information] End processing HTTP request after 170.0762ms - 200
+2021-11-25 16:15:53.210 +00:00 [Information] Received HTTP response headers after 296.6838ms - 200
+2021-11-25 16:15:53.246 +00:00 [Information] End processing HTTP request after 305.6588ms - 200
+2021-11-25 16:16:03.258 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:03.262 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:03.271 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:03.275 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:03.414 +00:00 [Information] Received HTTP response headers after 140.0401ms - 200
+2021-11-25 16:16:03.418 +00:00 [Information] End processing HTTP request after 149.953ms - 200
+2021-11-25 16:16:03.507 +00:00 [Information] Received HTTP response headers after 244.9655ms - 200
+2021-11-25 16:16:03.511 +00:00 [Information] End processing HTTP request after 253.4849ms - 200
+2021-11-25 16:16:13.533 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:13.540 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:13.553 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:13.557 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:13.692 +00:00 [Information] Received HTTP response headers after 135.8321ms - 200
+2021-11-25 16:16:13.703 +00:00 [Information] End processing HTTP request after 144.4707ms - 200
+2021-11-25 16:16:13.717 +00:00 [Information] Received HTTP response headers after 179.6519ms - 200
+2021-11-25 16:16:13.779 +00:00 [Information] End processing HTTP request after 189.6577ms - 200
+2021-11-25 16:16:23.797 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:23.803 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:23.832 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:23.842 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:23.994 +00:00 [Information] Received HTTP response headers after 156.5928ms - 200
+2021-11-25 16:16:24.012 +00:00 [Information] End processing HTTP request after 168.951ms - 200
+2021-11-25 16:16:24.087 +00:00 [Information] Received HTTP response headers after 283.6356ms - 200
+2021-11-25 16:16:24.097 +00:00 [Information] End processing HTTP request after 295.6441ms - 200
+2021-11-25 16:16:34.294 +00:00 [Information] Start processing HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:34.321 +00:00 [Information] Sending HTTP request "GET" http://localhost:53623/healthz
+2021-11-25 16:16:34.365 +00:00 [Information] Start processing HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:34.374 +00:00 [Information] Sending HTTP request "GET" https://github.com/sdiagne148/BackendAnnonce
+2021-11-25 16:16:34.561 +00:00 [Information] Received HTTP response headers after 161.7737ms - 200
+2021-11-25 16:16:34.570 +00:00 [Information] End processing HTTP request after 213.2799ms - 200
+2021-11-25 16:16:34.576 +00:00 [Information] Received HTTP response headers after 278.1493ms - 200
+2021-11-25 16:16:34.584 +00:00 [Information] End processing HTTP request after 439.5432ms - 200

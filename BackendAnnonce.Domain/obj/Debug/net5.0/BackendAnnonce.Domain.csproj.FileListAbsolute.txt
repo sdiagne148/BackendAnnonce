@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\bin\Debug\net5.0\BackendAnnonce.Domain.deps.json
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\bin\Debug\net5.0\BackendAnnonce.Domain.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\bin\Debug\net5.0\ref\BackendAnnonce.Domain.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\bin\Debug\net5.0\BackendAnnonce.Domain.pdb
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\ref\BackendAnnonce.Domain.dll
+C:\Users\lenovo\Desktop\ProjectC#\BackendAnnonce\BackendAnnonce.Domain\obj\Debug\net5.0\BackendAnnonce.Domain.pdb
