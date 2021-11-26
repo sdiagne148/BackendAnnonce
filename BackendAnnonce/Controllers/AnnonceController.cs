@@ -10,10 +10,11 @@ using System.IO;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Swashbuckle.AspNetCore.Annotations;
+using BackendAnnonce.Infrastructure.ViewModel;
 
 namespace BackendAnnonce.Controllers
 {
-    [Authorize]
+   // [Authorize]
     [ApiController]
     [Route("api/v{version:apiVersion}/Annonce")]
     [ApiVersion("1.0")]
@@ -33,22 +34,30 @@ namespace BackendAnnonce.Controllers
             Summary = "Uploader un ficheir",
             Description = "Uploader un ficheir avec les informations de l'annonce"
         )]
-        public async Task<IActionResult> Upload(int id)
+        [ProducesResponseType(typeof(int), StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> Upload(int id, [FromForm] AnnonceModel form)
         {
+           
+            // Validate FormFile
+            if (form.AnnonceFile == null || form.AnnonceFile.Length < 1)
+            {
+                return BadRequest("The uploaded file is empty.");
+            }
+            
             try
             {
-                var file = Request.Form.Files[0];
                 var folderName = Path.Combine("Resources", "Images");
                 var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
 
-                if (file.Length > 0)
+                if (form.AnnonceFile.Length > 0)
                 {
-                    var fileName = ContentDispositionHeaderValue.Parse(file.ContentDisposition).FileName.Trim('"');
+                    var fileName = ContentDispositionHeaderValue.Parse(form.AnnonceFile.ContentDisposition).FileName.Trim('"');
                     var fullPath = Path.Combine(pathToSave, fileName);
 
                     using (var stream = new FileStream(fullPath, FileMode.Create))
                     {
-                        file.CopyTo(stream);
+                        await form.AnnonceFile.CopyToAsync(stream);
                     }
 
                     UploadImageAnnonceCommand command = new UploadImageAnnonceCommand();

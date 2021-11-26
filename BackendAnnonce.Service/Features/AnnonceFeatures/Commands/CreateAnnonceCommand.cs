@@ -10,7 +10,6 @@ namespace BackendAnnonce.Service.Features.AnnonceFeatures.Commands
     {
         public string Titre { get; set; }
         public string Description { get; set; }
-        public string Image { get; set; }
        
         public class CreateAnnonceCommandHandler : IRequestHandler<CreateAnnonceCommand, int>
         {
@@ -24,7 +23,6 @@ namespace BackendAnnonce.Service.Features.AnnonceFeatures.Commands
                 var annonce = new Annonce();
                 annonce.Titre = request.Titre;
                 annonce.Description = request.Description;
-                annonce.Image = request.Image;
 
                 _context.Annonces.Add(annonce);
                 await _context.SaveChangesAsync();
